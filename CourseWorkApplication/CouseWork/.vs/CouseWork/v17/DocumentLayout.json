@@ -1,0 +1,1924 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\repositories\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\repositories\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\dictionaries\\resources.en.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\dictionaries\\resources.en.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\dictionaries\\resources.ru.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\dictionaries\\resources.ru.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\maincatalog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\maincatalog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\eventdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\eventdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\eventdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\eventdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\repositories\\commentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\repositories\\commentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\categoryedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\categoryedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\askquestion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\askquestion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\useraccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\useraccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\useredit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\useredit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\ticketrefundedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\ticketrefundedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\sectorrowedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\sectorrowedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\questionedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\questionedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\organizeredit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\organizeredit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\organizeraccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\organizeraccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\manageraccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\manageraccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\locationedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\locationedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\eventscheduleeditmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\eventscheduleeditmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\eventscheduleedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\eventscheduleedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\eventeditmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\eventeditmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\eventedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\eventedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\images\\frame 53.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\images\\frame 53.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\askquestion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\askquestion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\usereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\usereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\useraccountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\useraccountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\ticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\ticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\ticketrefundviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\ticketrefundviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\sectorroweditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\sectorroweditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\registrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\registrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\questioneditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\questioneditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\organizereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\organizereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\organizeraccountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\organizeraccountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\manageaccountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\manageaccountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\maincatalogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\maincatalogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\locationeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\locationeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\eventscheduleeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\eventscheduleeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\eventscheduleeditmanagerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\eventscheduleeditmanagerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\eventeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\eventeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\eventeditmanagerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\eventeditmanagerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\categoryeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\categoryeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\authorizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\authorizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\viewmodels\\askquestionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\viewmodels\\askquestionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\utilities\\rowseatconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\utilities\\rowseatconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\utilities\\ticketstatustobooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\utilities\\ticketstatustobooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\utilities\\localizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\utilities\\localizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\utilities\\grnheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\utilities\\grnheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\utilities\\colortobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\utilities\\colortobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\utilities\\bytearraytoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\utilities\\bytearraytoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\repositories\\userquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\repositories\\userquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\repositories\\ticketsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\repositories\\ticketsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\repositories\\ticketrefundrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\repositories\\ticketrefundrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\repositories\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\repositories\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\repositories\\sectorrowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\repositories\\sectorrowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\repositories\\salesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\repositories\\salesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\repositories\\organizerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\repositories\\organizerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\repositories\\organizerquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\repositories\\organizerquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\repositories\\eventschedulerepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\repositories\\eventschedulerepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\ticketrefund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\ticketrefund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\sectorrows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\sectorrows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\locations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\locations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\eventdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\eventdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\maincatalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\maincatalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\sectorrowedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\sectorrowedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\ticketrefundedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\ticketrefundedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\eventsschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\eventsschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\cousework\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\useredit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\useredit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\eventscheduleedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\eventscheduleedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\eventscheduleeditmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\eventscheduleeditmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\organizers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\organizers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\manageraccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\manageraccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\categoryedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\categoryedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\useraccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\useraccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\questionedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\questionedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\cousework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\cousework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\locationedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\locationedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\eventeditmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\eventeditmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\cinema_3unida1mwfwb.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\cinema_3unida1mwfwb.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\organizeraccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\organizeraccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\organizeredit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\organizeredit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\cousework.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\cousework.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\organizerquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\organizerquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\iquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\iquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\userquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\userquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\views\\eventedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\views\\eventedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\obj\\Debug\\net8.0-windows\\Views\\OrganizerAccount.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CouseWork\\obj\\Debug\\net8.0-windows\\Views\\OrganizerAccount.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|d:\\5sem_bstu\\coursework\\courseworkapplication\\cousework\\cousework\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C553237C-F507-462C-A537-2EEF8FA25740}|CouseWork\\CouseWork.csproj|solutionrelative:cousework\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\obj\\Debug\\net8.0-windows\\Views\\Registration.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CouseWork\\obj\\Debug\\net8.0-windows\\Views\\Registration.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\.vsdbgsrc\\2555e659cb52a1d328b9a33b879795c6f022ebfd9b5e54615bbcf4c64902a9a6\\DefaultBinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\SourceServer\\8e6a2c54e7c13f330e54028ccfd775306fd02b5a134059b1c67113ea9056b323\\src\\libraries\\System.Private.CoreLib\\src\\System\\DefaultBinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentsRepository.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\CommentsRepository.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\Repositories\\CommentsRepository.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\CommentsRepository.cs",
+              "RelativeToolTip": "CouseWork\\Data\\Repositories\\CommentsRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:17:19.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "CouseWork\\Data\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIA8wDAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:04:29.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\Repositories\\LocationRepository.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\LocationRepository.cs",
+              "RelativeToolTip": "CouseWork\\Data\\Repositories\\LocationRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAvwDAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:42:50.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.ru.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Dictionaries\\Resources.ru.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Dictionaries\\Resources.ru.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Dictionaries\\Resources.ru.xaml",
+              "RelativeToolTip": "CouseWork\\Dictionaries\\Resources.ru.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T18:28:09.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.en.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Dictionaries\\Resources.en.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Dictionaries\\Resources.en.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Dictionaries\\Resources.en.xaml",
+              "RelativeToolTip": "CouseWork\\Dictionaries\\Resources.en.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T05:15:46.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainCatalog.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\MainCatalog.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\MainCatalog.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\MainCatalog.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\MainCatalog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T10:58:04.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\Repositories\\EventRepository.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "CouseWork\\Data\\Repositories\\EventRepository.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwD8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T19:27:34.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventDetails.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventDetails.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\EventDetails.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventDetails.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\EventDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T17:50:12.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\UnitOfWork.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "CouseWork\\Data\\UnitOfWork.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAvwJEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:52:36.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\EventDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\EventDetailsViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\EventDetailsViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\EventDetailsViewModel.cs",
+              "ViewState": "AQIAACYBAAAAAAAAAAAywEMBAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:11:09.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryEdit.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\CategoryEdit.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\CategoryEdit.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\CategoryEdit.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\CategoryEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T14:29:44.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AskQuestion.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\AskQuestion.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\AskQuestion.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\AskQuestion.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\AskQuestion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T23:10:41.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrganizerEdit.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\OrganizerEdit.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\OrganizerEdit.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\OrganizerEdit.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\OrganizerEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-12T12:00:40.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserEdit.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\UserEdit.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\UserEdit.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\UserEdit.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\UserEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T23:55:19.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserAccount.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\UserAccount.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\UserAccount.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\UserAccount.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\UserAccount.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-12T23:30:32.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TicketRefundEdit.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\TicketRefundEdit.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\TicketRefundEdit.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\TicketRefundEdit.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\TicketRefundEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-12T19:12:49.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SectorRowEdit.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\SectorRowEdit.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\SectorRowEdit.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\SectorRowEdit.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\SectorRowEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T15:36:45.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Registration.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\Registration.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\Registration.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\Registration.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\Registration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T20:48:24.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuestionEdit.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\QuestionEdit.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\QuestionEdit.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\QuestionEdit.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\QuestionEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-12T13:58:22.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrganizerAccount.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\OrganizerAccount.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\OrganizerAccount.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\OrganizerAccount.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\OrganizerAccount.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T20:22:40.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManagerAccount.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\ManagerAccount.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\ManagerAccount.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\ManagerAccount.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\ManagerAccount.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T21:12:02.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T12:51:07.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LocationEdit.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\LocationEdit.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\LocationEdit.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\LocationEdit.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\LocationEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T16:05:05.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventScheduleEditManager.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventScheduleEditManager.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\EventScheduleEditManager.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventScheduleEditManager.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\EventScheduleEditManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T05:54:24.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EventScheduleEdit.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventScheduleEdit.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\EventScheduleEdit.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventScheduleEdit.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\EventScheduleEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T23:21:48.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EventEditManager.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventEditManager.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\EventEditManager.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventEditManager.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\EventEditManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T23:20:31.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EventEdit.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventEdit.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\EventEdit.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventEdit.xaml",
+              "RelativeToolTip": "CouseWork\\Views\\EventEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T23:15:00.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Frame 53.png",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\Images\\Frame 53.png",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\Images\\Frame 53.png",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\Images\\Frame 53.png",
+              "RelativeToolTip": "CouseWork\\Views\\Images\\Frame 53.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-04T15:08:56.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AskQuestion.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\AskQuestion.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\AskQuestion.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\AskQuestion.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\AskQuestion.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:32:10.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserEditViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\UserEditViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\UserEditViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\UserEditViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\UserEditViewModel.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAANYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:21:02.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserAccountViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\UserAccountViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\UserAccountViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\UserAccountViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\UserAccountViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:35:58.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TicketViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\TicketViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\TicketViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\TicketViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\TicketViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:53:19.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TicketRefundViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\TicketRefundViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\TicketRefundViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\TicketRefundViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\TicketRefundViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:56:40.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SectorRowEditViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\SectorRowEditViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\SectorRowEditViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\SectorRowEditViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\SectorRowEditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:38:03.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegistrationViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\RegistrationViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\RegistrationViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\RegistrationViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\RegistrationViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAMwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:58:18.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "QuestionEditViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\QuestionEditViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\QuestionEditViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\QuestionEditViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\QuestionEditViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAIsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:59:21.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrganizerEditViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\OrganizerEditViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\OrganizerEditViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\OrganizerEditViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\OrganizerEditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:43:28.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrganizerAccountViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\OrganizerAccountViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\OrganizerAccountViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\OrganizerAccountViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\OrganizerAccountViewModel.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:39:57.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ManageAccountViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\ManageAccountViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\ManageAccountViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\ManageAccountViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\ManageAccountViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:01:19.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainCatalogViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\MainCatalogViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\MainCatalogViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\MainCatalogViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\MainCatalogViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:37:17.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LocationEditViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\LocationEditViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\LocationEditViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\LocationEditViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\LocationEditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:39:18.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EventScheduleEditViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\EventScheduleEditViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\EventScheduleEditViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\EventScheduleEditViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\EventScheduleEditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:29:30.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EventScheduleEditManagerViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\EventScheduleEditManagerViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\EventScheduleEditManagerViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\EventScheduleEditManagerViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\EventScheduleEditManagerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:30:49.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EventEditViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\EventEditViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\EventEditViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\EventEditViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\EventEditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:02:28.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EventEditManagerViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\EventEditManagerViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\EventEditManagerViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\EventEditManagerViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\EventEditManagerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:53:17.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CategoryEditViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\CategoryEditViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\CategoryEditViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\CategoryEditViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\CategoryEditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:09:21.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AuthorizationViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\AuthorizationViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\AuthorizationViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\AuthorizationViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\AuthorizationViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:44:48.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AskQuestionViewModel.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\AskQuestionViewModel.cs",
+              "RelativeDocumentMoniker": "CouseWork\\ViewModels\\AskQuestionViewModel.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ViewModels\\AskQuestionViewModel.cs",
+              "RelativeToolTip": "CouseWork\\ViewModels\\AskQuestionViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:37:30.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RowSeatConverter.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Utilities\\RowSeatConverter.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Utilities\\RowSeatConverter.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Utilities\\RowSeatConverter.cs",
+              "RelativeToolTip": "CouseWork\\Utilities\\RowSeatConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:58:13.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TicketStatusToBooleanConverter.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Utilities\\TicketStatusToBooleanConverter.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Utilities\\TicketStatusToBooleanConverter.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Utilities\\TicketStatusToBooleanConverter.cs",
+              "RelativeToolTip": "CouseWork\\Utilities\\TicketStatusToBooleanConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:56:49.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LocalizationManager.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Utilities\\LocalizationManager.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Utilities\\LocalizationManager.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Utilities\\LocalizationManager.cs",
+              "RelativeToolTip": "CouseWork\\Utilities\\LocalizationManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:20:13.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GRNHeader.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Utilities\\GRNHeader.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Utilities\\GRNHeader.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Utilities\\GRNHeader.cs",
+              "RelativeToolTip": "CouseWork\\Utilities\\GRNHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:07:24.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ColorToBrushConverter.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Utilities\\ColorToBrushConverter.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Utilities\\ColorToBrushConverter.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Utilities\\ColorToBrushConverter.cs",
+              "RelativeToolTip": "CouseWork\\Utilities\\ColorToBrushConverter.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:58:48.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ByteArrayToImageConverter.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Utilities\\ByteArrayToImageConverter.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Utilities\\ByteArrayToImageConverter.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Utilities\\ByteArrayToImageConverter.cs",
+              "RelativeToolTip": "CouseWork\\Utilities\\ByteArrayToImageConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T22:41:45.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Comments.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\Comments.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Comments.cs",
+              "RelativeToolTip": "CouseWork\\Models\\Comments.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:34:31.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\Categories.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Categories.cs",
+              "RelativeToolTip": "CouseWork\\Models\\Categories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:52:28.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\UserSession.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\UserSession.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\UserSession.cs",
+              "RelativeToolTip": "CouseWork\\Data\\UserSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:16:51.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CouseWork\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:22:43.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserQuestionRepository.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\UserQuestionRepository.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\Repositories\\UserQuestionRepository.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\UserQuestionRepository.cs",
+              "RelativeToolTip": "CouseWork\\Data\\Repositories\\UserQuestionRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:51:10.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "TicketsRepository.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\TicketsRepository.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\Repositories\\TicketsRepository.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\TicketsRepository.cs",
+              "RelativeToolTip": "CouseWork\\Data\\Repositories\\TicketsRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:17:17.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TicketRefundRepository.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\TicketRefundRepository.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\Repositories\\TicketRefundRepository.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\TicketRefundRepository.cs",
+              "RelativeToolTip": "CouseWork\\Data\\Repositories\\TicketRefundRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:34:42.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\Repositories\\ShoppingCartRepository.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "CouseWork\\Data\\Repositories\\ShoppingCartRepository.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAwwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:44:34.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SectorRowRepository.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\SectorRowRepository.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\Repositories\\SectorRowRepository.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\SectorRowRepository.cs",
+              "RelativeToolTip": "CouseWork\\Data\\Repositories\\SectorRowRepository.cs",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAwwNgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:06:29.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SalesRepository.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\SalesRepository.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\Repositories\\SalesRepository.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\SalesRepository.cs",
+              "RelativeToolTip": "CouseWork\\Data\\Repositories\\SalesRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:58:11.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "OrganizerRepository.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\OrganizerRepository.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\Repositories\\OrganizerRepository.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\OrganizerRepository.cs",
+              "RelativeToolTip": "CouseWork\\Data\\Repositories\\OrganizerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:08:36.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "OrganizerQuestionRepository.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\OrganizerQuestionRepository.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\Repositories\\OrganizerQuestionRepository.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\OrganizerQuestionRepository.cs",
+              "RelativeToolTip": "CouseWork\\Data\\Repositories\\OrganizerQuestionRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:40:09.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "EventScheduleRepository.cs.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\EventScheduleRepository.cs.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\Repositories\\EventScheduleRepository.cs.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\EventScheduleRepository.cs.cs",
+              "RelativeToolTip": "CouseWork\\Data\\Repositories\\EventScheduleRepository.cs.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAmwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:14:50.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Data\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Data\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "CouseWork\\Data\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:05:13.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CouseWork\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAAQwCwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:04:16.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Commands\\RelayCommand.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "CouseWork\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:21:37.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Tickets.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Tickets.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\Tickets.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Tickets.cs",
+              "RelativeToolTip": "CouseWork\\Models\\Tickets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:42:10.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "TicketRefund.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\TicketRefund.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\TicketRefund.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\TicketRefund.cs",
+              "RelativeToolTip": "CouseWork\\Models\\TicketRefund.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:42:59.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Locations.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Locations.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\Locations.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Locations.cs",
+              "RelativeToolTip": "CouseWork\\Models\\Locations.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:34:29.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "SectorRows.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\SectorRows.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\SectorRows.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\SectorRows.cs",
+              "RelativeToolTip": "CouseWork\\Models\\SectorRows.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:56:21.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "EventDetails.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventDetails.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\EventDetails.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventDetails.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\EventDetails.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwBoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:41:05.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "MainCatalog.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\MainCatalog.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\MainCatalog.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\MainCatalog.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\MainCatalog.xaml.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:58:06.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\App.xaml",
+              "RelativeDocumentMoniker": "CouseWork\\App.xaml",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\App.xaml",
+              "RelativeToolTip": "CouseWork\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-23T15:47:11.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Registration.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\Registration.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\Registration.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\Registration.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\Registration.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:38:32.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\Users.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Users.cs",
+              "RelativeToolTip": "CouseWork\\Models\\Users.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:56:22.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "SectorRowEdit.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\SectorRowEdit.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\SectorRowEdit.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\SectorRowEdit.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\SectorRowEdit.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:39:41.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "TicketRefundEdit.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\TicketRefundEdit.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\TicketRefundEdit.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\TicketRefundEdit.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\TicketRefundEdit.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:45:12.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\ShoppingCart.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "CouseWork\\Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:58:23.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "EventsSchedule.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\EventsSchedule.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\EventsSchedule.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\EventsSchedule.cs",
+              "RelativeToolTip": "CouseWork\\Models\\EventsSchedule.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:39:56.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Events.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Events.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\Events.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Events.cs",
+              "RelativeToolTip": "CouseWork\\Models\\Events.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:34:53.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "UserEdit.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\UserEdit.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\UserEdit.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\UserEdit.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\UserEdit.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:09:37.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA+wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:12:34.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "EventScheduleEdit.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventScheduleEdit.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\EventScheduleEdit.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventScheduleEdit.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\EventScheduleEdit.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:14:26.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "EventScheduleEditManager.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventScheduleEditManager.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\EventScheduleEditManager.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventScheduleEditManager.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\EventScheduleEditManager.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:13:51.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Organizers.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Organizers.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\Organizers.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Organizers.cs",
+              "RelativeToolTip": "CouseWork\\Models\\Organizers.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:21:50.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ManagerAccount.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\ManagerAccount.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\ManagerAccount.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\ManagerAccount.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\ManagerAccount.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:46:01.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "CategoryEdit.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\CategoryEdit.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\CategoryEdit.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\CategoryEdit.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\CategoryEdit.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:47:05.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "UserAccount.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\UserAccount.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\UserAccount.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\UserAccount.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\UserAccount.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:24:52.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "QuestionEdit.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\QuestionEdit.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\QuestionEdit.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\QuestionEdit.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\QuestionEdit.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:32:23.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Sales.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\Sales.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Sales.cs",
+              "RelativeToolTip": "CouseWork\\Models\\Sales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:58:30.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Managers.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Managers.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\Managers.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Managers.cs",
+              "RelativeToolTip": "CouseWork\\Models\\Managers.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:57:02.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\App.config",
+              "RelativeDocumentMoniker": "CouseWork\\App.config",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\App.config",
+              "RelativeToolTip": "CouseWork\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-05T06:23:36.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "EventEditManager.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventEditManager.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\EventEditManager.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventEditManager.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\EventEditManager.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:13:59.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "LocationEdit.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\LocationEdit.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\LocationEdit.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\LocationEdit.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\LocationEdit.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:42:30.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "CouseWork.csproj",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\CouseWork.csproj",
+              "RelativeDocumentMoniker": "CouseWork\\CouseWork.csproj",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\CouseWork.csproj",
+              "RelativeToolTip": "CouseWork\\CouseWork.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T06:14:09.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "cinema_3unida1mwfwb.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\cinema_3unida1mwfwb.ico",
+              "RelativeDocumentMoniker": "CouseWork\\cinema_3unida1mwfwb.ico",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\cinema_3unida1mwfwb.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
+              "RelativeToolTip": "CouseWork\\cinema_3unida1mwfwb.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-12-13T06:26:41.646Z",
+              "EditorCaption": " - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "OrganizerAccount.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\OrganizerAccount.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\OrganizerAccount.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\OrganizerAccount.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\OrganizerAccount.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:31:52.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "OrganizerEdit.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\OrganizerEdit.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\OrganizerEdit.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\OrganizerEdit.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\OrganizerEdit.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:31:46.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "CouseWork",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\CouseWork.csproj",
+              "RelativeDocumentMoniker": "CouseWork\\CouseWork.csproj",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\CouseWork.csproj",
+              "RelativeToolTip": "CouseWork\\CouseWork.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T23:02:38.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "OrganizerQuestions.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\OrganizerQuestions.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\OrganizerQuestions.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\OrganizerQuestions.cs",
+              "RelativeToolTip": "CouseWork\\Models\\OrganizerQuestions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:57:47.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "IQuestion.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\IQuestion.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\IQuestion.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\IQuestion.cs",
+              "RelativeToolTip": "CouseWork\\Models\\IQuestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:56:07.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "UserQuestions.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\UserQuestions.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\UserQuestions.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\UserQuestions.cs",
+              "RelativeToolTip": "CouseWork\\Models\\UserQuestions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:56:21.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\App.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\App.xaml.cs",
+              "RelativeToolTip": "CouseWork\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:47:14.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Models\\Roles.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Models\\Roles.cs",
+              "RelativeToolTip": "CouseWork\\Models\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:33:21.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "EventEdit.xaml.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventEdit.xaml.cs",
+              "RelativeDocumentMoniker": "CouseWork\\Views\\EventEdit.xaml.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\Views\\EventEdit.xaml.cs",
+              "RelativeToolTip": "CouseWork\\Views\\EventEdit.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:28:55.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "OrganizerAccount.g.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\obj\\Debug\\net8.0-windows\\Views\\OrganizerAccount.g.cs",
+              "RelativeDocumentMoniker": "CouseWork\\obj\\Debug\\net8.0-windows\\Views\\OrganizerAccount.g.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\obj\\Debug\\net8.0-windows\\Views\\OrganizerAccount.g.cs",
+              "RelativeToolTip": "CouseWork\\obj\\Debug\\net8.0-windows\\Views\\OrganizerAccount.g.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAtwDMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:20:38.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CouseWork\\AssemblyInfo.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\AssemblyInfo.cs",
+              "RelativeToolTip": "CouseWork\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:58:43.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "Registration.g.cs",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\obj\\Debug\\net8.0-windows\\Views\\Registration.g.cs",
+              "RelativeDocumentMoniker": "CouseWork\\obj\\Debug\\net8.0-windows\\Views\\Registration.g.cs",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\obj\\Debug\\net8.0-windows\\Views\\Registration.g.cs",
+              "RelativeToolTip": "CouseWork\\obj\\Debug\\net8.0-windows\\Views\\Registration.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:10:08.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "DefaultBinder.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\.vsdbgsrc\\2555e659cb52a1d328b9a33b879795c6f022ebfd9b5e54615bbcf4c64902a9a6\\DefaultBinder.cs",
+              "ToolTip": "C:\\Users\\user1\\AppData\\Local\\Temp\\.vsdbgsrc\\2555e659cb52a1d328b9a33b879795c6f022ebfd9b5e54615bbcf4c64902a9a6\\DefaultBinder.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:48:19.982Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "DefaultBinder.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\SourceServer\\8e6a2c54e7c13f330e54028ccfd775306fd02b5a134059b1c67113ea9056b323\\src\\libraries\\System.Private.CoreLib\\src\\System\\DefaultBinder.cs",
+              "ToolTip": "C:\\Users\\user1\\AppData\\Local\\SourceServer\\8e6a2c54e7c13f330e54028ccfd775306fd02b5a134059b1c67113ea9056b323\\src\\libraries\\System.Private.CoreLib\\src\\System\\DefaultBinder.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAArwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:25:47.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\user1\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:44:17.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ClassDiagram.cd",
+              "DocumentMoniker": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ClassDiagram.cd",
+              "RelativeDocumentMoniker": "CouseWork\\ClassDiagram.cd",
+              "ToolTip": "D:\\5sem_BSTU\\CourseWork\\CourseWorkApplication\\CouseWork\\CouseWork\\ClassDiagram.cd",
+              "RelativeToolTip": "CouseWork\\ClassDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-12-13T06:27:20.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

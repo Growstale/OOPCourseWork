@@ -1,0 +1,39 @@
+﻿<Application x:Class="CouseWork.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CouseWork"
+             StartupUri="Views/MainWindow.xaml">
+    <Application.Resources>
+        
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Dictionaries/Resources.ru.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+
+            <Style TargetType="ScrollBar">
+                <Setter Property="Orientation" Value="Vertical" />
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="ScrollBar">
+                            <Grid Background="Black">
+                                <Track Name="PART_Track">
+                                    <Track.DecreaseRepeatButton>
+                                        <RepeatButton Content="" Background="Black" />
+                                    </Track.DecreaseRepeatButton>
+                                    <Track.IncreaseRepeatButton>
+                                        <RepeatButton Content="" Background="Black" />
+                                    </Track.IncreaseRepeatButton>
+                                    <Track.Thumb>
+                                        <Thumb Background="Orange" />
+                                    </Track.Thumb>
+                                </Track>
+                            </Grid>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+
+        </ResourceDictionary>
+        
+    </Application.Resources>
+</Application>

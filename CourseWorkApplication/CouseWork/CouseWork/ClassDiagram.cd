@@ -1,0 +1,661 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CouseWork.Context.ApplicationDbContext">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAACAAAAAAAAAAACIgBAgAEgAAEAAAIAAAEgAAIAA=</HashCode>
+      <FileName>Context\ApplicationDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Commands.RelayCommand">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEACAAQAAECAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\RelayCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CouseWork.Data.Repositories.BaseRepository&lt;T&gt;" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAAAAABAAAAQAgAAAEAAAAAAEAACAAAACAAAA=</HashCode>
+      <FileName>Data\Repositories\BaseRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.Repositories.CategoryRepository">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAYABAAAAAAAAAAAAQABAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Data\Repositories\CategoryRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.Repositories.CommentsRepository">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAABAAAAAAAAIAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Repositories\CommentsRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.Repositories.EventRepository">
+    <Position X="5.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAIBABAAAAAAAACAAABAAAAAkAAAAAASAA=</HashCode>
+      <FileName>Data\Repositories\EventRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.Repositories.EventScheduleRepository">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQgAIAAAABAAAAAAAIIAAAAABAAAACkAAECAAAAA=</HashCode>
+      <FileName>Data\Repositories\EventScheduleRepository.cs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.Repositories.OrganizerQuestionRepository">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAABABAAAACAAAAAAAQAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Data\Repositories\OrganizerQuestionRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.Repositories.OrganizerRepository">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAQCAAAAAABAACAAAAAAAAAAABAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Data\Repositories\OrganizerRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.Repositories.SalesRepository">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAABAAAAgAAAIAAAAAAAAAAAgAAAAAAAIA=</HashCode>
+      <FileName>Data\Repositories\SalesRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.Repositories.SectorRowRepository">
+    <Position X="7.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAoBQAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Repositories\SectorRowRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.Repositories.ShoppingCartRepository">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAABABAAgAAAIAAAAEAAAgAAgAAgAAAAAA=</HashCode>
+      <FileName>Data\Repositories\ShoppingCartRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.Repositories.TicketRefundRepository">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAABABAAAAAAAAIAAAAEAAAAAAgAAgAAAAAA=</HashCode>
+      <FileName>Data\Repositories\TicketRefundRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.Repositories.TicketsRepository">
+    <Position X="2.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAABABAAAAAAAAAAAEAAAAAAgAAgAAAAAA=</HashCode>
+      <FileName>Data\Repositories\TicketsRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.Repositories.UserQuestionRepository">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAABAAAAAACAAIAAAAQAAEAAAAAAACAAAA=</HashCode>
+      <FileName>Data\Repositories\UserQuestionRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.Repositories.UserRepository">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAAACAAAAAABAACAAAAAAAAAQAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Data\Repositories\UserRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.Repositories.LocationRepository">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAABiAAAAAAABAAAAABAAAAAgAAAAAEAAA=</HashCode>
+      <FileName>Data\Repositories\LocationRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.UnitOfWork">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggIYoIAADCGAFAAgoAAACAAAAAEAAAACSABEAsAAQCA=</HashCode>
+      <FileName>Data\UnitOfWork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Data.UserSession">
+    <Position X="9.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\UserSession.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Models.Categories">
+    <Position X="47" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAEAAAAAAAAAiAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Categories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Models.Comments">
+    <Position X="52.25" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAAAABAAAAAAAAAAAAAgAAgAAAAAgAAACACAAAAA=</HashCode>
+      <FileName>Models\Comments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Models.Events">
+    <Position X="47" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAiAAAgAAAAAAABABAAAIIIABAAAAAAAEAAKAA=</HashCode>
+      <FileName>Models\Events.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Models.EventsSchedule">
+    <Position X="47" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAACAAAAAAAAAIAAAAAAgAAAAAAAAAAAABIAAA=</HashCode>
+      <FileName>Models\EventsSchedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Models.Locations">
+    <Position X="50.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAABAAEAAIAAAgAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Locations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Models.Managers">
+    <Position X="54" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEIAACAAAAAAEAAIAAAAAAAAAAACIAARMAAAAAg=</HashCode>
+      <FileName>Models\Managers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Models.OrganizerQuestions" BaseTypeListCollapsed="true">
+    <Position X="52.25" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAEAAAAAAAAgAAJAAAACAAIBAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Models\OrganizerQuestions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CouseWork.Models.Organizers">
+    <Position X="48.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQEIAACAAAAAAEAABAAAAAgAAAAACIAAAIAAAAAg=</HashCode>
+      <FileName>Models\Organizers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Models.Roles">
+    <Position X="48.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAACIAAAAAAAAAAAAgAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Models\Roles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Models.Sales">
+    <Position X="47" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAEAAAAAAACAAAAAAgAAAAAAAAAAAAAAQEQEAA=</HashCode>
+      <FileName>Models\Sales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Models.SectorRows">
+    <Position X="48.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAACAAAAAEAAAIAACAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Models\SectorRows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Models.ShoppingCart">
+    <Position X="48.75" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAACAAAAAAgAAAAAAAAAEAAAAAAQAAA=</HashCode>
+      <FileName>Models\ShoppingCart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Models.TicketRefund">
+    <Position X="50.5" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAIAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAABAEAA=</HashCode>
+      <FileName>Models\TicketRefund.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Models.Tickets">
+    <Position X="52.25" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAEAQgAAAAAACAABAgAAAAAAAAAACAAAAAYAAA=</HashCode>
+      <FileName>Models\Tickets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Models.UserQuestions" BaseTypeListCollapsed="true">
+    <Position X="54" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAEAAAAAAAAgAAIAAgACAAABAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Models\UserQuestions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="CouseWork.Models.Users">
+    <Position X="50.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQEIAACAAAAAAEAAABAgAAAAAAAACAAAQMQAAIAg=</HashCode>
+      <FileName>Models\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Utilities.ByteArrayToImageConverter" BaseTypeListCollapsed="true">
+    <Position X="4" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\ByteArrayToImageConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CouseWork.Utilities.ColorToBrushConverter" BaseTypeListCollapsed="true">
+    <Position X="6" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\ColorToBrushConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CouseWork.Utilities.GRNHeader" BaseTypeListCollapsed="true">
+    <Position X="4" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAAAgAAAAAACAAAAAAA=</HashCode>
+      <FileName>Utilities\GRNHeader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CouseWork.Utilities.GRN" BaseTypeListCollapsed="true">
+    <Position X="6" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAAAgAAAAAACAAAAAAA=</HashCode>
+      <FileName>Utilities\GRNHeader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CouseWork.Utilities.LocalizationManager" BaseTypeListCollapsed="true">
+    <Position X="8" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAgAAAAAAAAIAAAAAAAgAAAAAAAQAAAEAAAAIA=</HashCode>
+      <FileName>Utilities\LocalizationManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CouseWork.Utilities.RowSeatConverter" BaseTypeListCollapsed="true">
+    <Position X="8" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\RowSeatConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CouseWork.Utilities.TicketStatusToBooleanConverter" BaseTypeListCollapsed="true">
+    <Position X="6" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\TicketStatusToBooleanConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CouseWork.App">
+    <Position X="11.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.ViewModels.AskQuestionViewModel" BaseTypeListCollapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAIgAAQAAAgACQAAAEQAAABAEAAAA=</HashCode>
+      <FileName>ViewModels\AskQuestionViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.AuthorizationViewModel" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAAEAAAgFQIUAAAAKAgEAAIAACAAIAAECAAAA=</HashCode>
+      <FileName>ViewModels\AuthorizationViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.CategoryEditViewModel" BaseTypeListCollapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAACIAAAAAYASCECJABQAAyAkAABEBAAAAAABAIEAAA=</HashCode>
+      <FileName>ViewModels\CategoryEditViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.EventDetailsViewModel" BaseTypeListCollapsed="true">
+    <Position X="34" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACADLEAAAhQFIIgEAAABAgAQIKABkJAAAIAAAKCA=</HashCode>
+      <FileName>ViewModels\EventDetailsViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.EventEditManagerViewModel">
+    <Position X="30.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>yGUIAgpwAiAqagkWogAAUFoAkoBBkhAAAAAAAEYMCAA=</HashCode>
+      <FileName>ViewModels\EventEditManagerViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.ViewModels.EventEditViewModel" BaseTypeListCollapsed="true">
+    <Position X="32.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>yGUIAgpwAiAqaglWogAAUFoAkoBBkhAAAAAABEYMCAA=</HashCode>
+      <FileName>ViewModels\EventEditViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.EventScheduleEditManagerViewModel">
+    <Position X="25.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gkQIAAAAEhAKAIEiogIASECAghKDABAAiAgAFBbNAAA=</HashCode>
+      <FileName>ViewModels\EventScheduleEditManagerViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.ViewModels.EventScheduleEditViewModel" BaseTypeListCollapsed="true">
+    <Position X="28.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gkQIAAAAEhAKAIEiogIASECAghKDABAAiAgAFBbNAAA=</HashCode>
+      <FileName>ViewModels\EventScheduleEditViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.LocationEditViewModel" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACIAAAAhAAAGGKJAJAAEyA0AABABAAAAAABACEAAA=</HashCode>
+      <FileName>ViewModels\LocationEditViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.MainCatalogViewModel" BaseTypeListCollapsed="true">
+    <Position X="16.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAQBAAYACpAQWABAoAIAREDBgAQAGQAYAEAAgAWACAA=</HashCode>
+      <FileName>ViewModels\MainCatalogViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.ManageAccountViewModel" BaseTypeListCollapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgCABASAQAAAAAAICELAQCDgAIAIAABAoAAAAAQQAQ=</HashCode>
+      <FileName>ViewModels\ManageAccountViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.OrganizerAccountViewModel" BaseTypeListCollapsed="true">
+    <Position X="13" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAIAAIAEBAACAgAAAEAAAAoAAAAAQAAA=</HashCode>
+      <FileName>ViewModels\OrganizerAccountViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.OrganizerEditViewModel" BaseTypeListCollapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEUBQEgAAGSAAAEwMgABIAAJgBCFRAAAAgJAMAAEABE=</HashCode>
+      <FileName>ViewModels\OrganizerEditViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.QuestionEditViewModel" BaseTypeListCollapsed="true">
+    <Position X="23.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>xEAAAAAEAAAAAAEAogAAAFAAiBAQFABMAAAQAAICAAA=</HashCode>
+      <FileName>ViewModels\QuestionEditViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.RegistrationViewModel" BaseTypeListCollapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAeBAEgAAGSAIAE4IEAAIACJgQCBJAQCAAJwMIDAABE=</HashCode>
+      <FileName>ViewModels\RegistrationViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.SectorRowEditViewModel" BaseTypeListCollapsed="true">
+    <Position X="35.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAJCAIAAABAABCESIBZCAGiAkAEFCDIAAAAEAECFACA=</HashCode>
+      <FileName>ViewModels\SectorRowEditViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.TicketRefundViewModel" BaseTypeListCollapsed="true">
+    <Position X="21.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAAAAGAgAAAAIgAAAAAAggAACAAAAYoAKQBAGAA=</HashCode>
+      <FileName>ViewModels\TicketRefundViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.TicketViewModel" BaseTypeListCollapsed="true">
+    <Position X="14.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQAAAECQAAEEACIAAAQACAgAAACgAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\TicketViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.UserAccountViewModel" BaseTypeListCollapsed="true">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAYQCAAgAAABABAogAAQQEAgAAQQABEQgAIBAEAAAA=</HashCode>
+      <FileName>ViewModels\UserAccountViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.CartItem">
+    <Position X="13" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQgAAAEAAAIAAAAAAoAAAAAAEAAAAABAAAA=</HashCode>
+      <FileName>ViewModels\UserAccountViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.ViewModels.SalesItem">
+    <Position X="27" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAQgAAAEAAAIAAAAAAIAAAAAAAAAAAABAEAA=</HashCode>
+      <FileName>ViewModels\UserAccountViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.ViewModels.UserEditViewModel" BaseTypeListCollapsed="true">
+    <Position X="27" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAGBAGgAAmSAAAAgIgAAIAgJgAiBQIQgAIJQMIQEABE=</HashCode>
+      <FileName>ViewModels\UserEditViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.Views.AskQuestion" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\AskQuestion.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.Views.EventDetails" BaseTypeListCollapsed="true">
+    <Position X="15" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\EventDetails.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.Views.TicketTemplateSelector">
+    <Position X="16.75" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\EventDetails.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouseWork.Views.EventEditManager" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\EventEditManager.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.Views.EventScheduleEditManager" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\EventScheduleEditManager.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.Views.MainCatalog" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="24.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Views\MainCatalog.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.Views.ManagerAccount" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\ManagerAccount.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.Views.OrganizerAccount" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\OrganizerAccount.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.Views.OrganizerEdit" BaseTypeListCollapsed="true">
+    <Position X="15" Y="26.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\OrganizerEdit.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.Views.QuestionEdit" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\QuestionEdit.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.Views.Registration" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\Registration.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.Views.TicketRefundEdit" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\TicketRefundEdit.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.Views.UserEdit" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="26.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\UserEdit.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.CategoryEdit" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\CategoryEdit.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.StatusToColorConverter" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\CategoryEdit.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.EventEdit" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\EventEdit.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.EventScheduleEdit" BaseTypeListCollapsed="true">
+    <Position X="15" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\EventScheduleEdit.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.LocationEdit" BaseTypeListCollapsed="true">
+    <Position X="15" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\LocationEdit.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.SectorRowEdit" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\SectorRowEdit.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.ViewModels.UserAccount" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\UserAccount.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CouseWork.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAIAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="CouseWork.Models.IQuestion">
+    <Position X="54" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAEAAAAAAAAgAAIAAAACAAABAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Models\IQuestion.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

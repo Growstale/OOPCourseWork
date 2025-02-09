@@ -1,0 +1,74 @@
+﻿<UserControl x:Class="CouseWork.Views.TicketRefundEdit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CouseWork.Views"
+        xmlns:viewModels="clr-namespace:CouseWork.ViewModels"
+        xmlns:utilities="clr-namespace:CouseWork.Utilities"
+        mc:Ignorable="d">
+    <UserControl.Resources>
+        <Style x:Key="CustomDataGridStyle" TargetType="DataGrid">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="ColumnHeaderStyle">
+                <Setter.Value>
+                    <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="Background" Value="Orange"/>
+                        <Setter Property="Foreground" Value="White"/>
+                    </Style>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="OrangeButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="Orange"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Width" Value="250"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+        </Style>
+    </UserControl.Resources>
+
+    <UserControl.DataContext>
+        <viewModels:TicketRefundViewModel/>
+    </UserControl.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="4*" />
+        </Grid.RowDefinitions>
+
+        <DataGrid Style="{StaticResource CustomDataGridStyle}" ItemsSource="{Binding TicketRefunds}"
+           SelectedItem="{Binding SelectedTicketRefund, Mode=TwoWay}"
+           AutoGenerateColumns="False"
+           HorizontalAlignment="Stretch"
+           VerticalAlignment="Stretch"
+           Margin="10"
+           IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="{DynamicResource item163}" Binding="{Binding TicketRefundID}" />
+                <DataGridTextColumn Header="{DynamicResource item164}" Binding="{Binding SaleID}" />
+                <DataGridTextColumn Header="{DynamicResource item165}" Binding="{Binding UserID}" />
+                <DataGridTextColumn Header="{DynamicResource item154}" Binding="{Binding RefundDate}" />
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="1" Orientation="Vertical" Margin="10">
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="{DynamicResource item163}" Foreground="Orange" VerticalAlignment="Center" Width="100" />
+                <TextBox Text="{Binding TicketRefundID, UpdateSourceTrigger=PropertyChanged}" IsReadOnly="True" Width="200" />
+            </StackPanel>
+
+
+            <Button Content="{DynamicResource item166}" Command="{Binding ApproveRefundCommand}" Style="{StaticResource OrangeButtonStyle}" />
+            <Button Content="{DynamicResource item167}" Command="{Binding RejectRefundCommand}" Style="{StaticResource OrangeButtonStyle}" />
+        </StackPanel>
+    </Grid>
+</UserControl>

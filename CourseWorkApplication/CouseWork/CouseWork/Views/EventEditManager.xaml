@@ -1,0 +1,139 @@
+﻿<UserControl x:Class="CouseWork.Views.EventEditManager"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:viewModels="clr-namespace:CouseWork.ViewModels"
+    xmlns:utilities="clr-namespace:CouseWork.Utilities"
+    xmlns:data="clr-namespace:CouseWork.Data"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+    mc:Ignorable="d">
+
+    <UserControl.Resources>
+        <Style x:Key="CustomDataGridStyle" TargetType="DataGrid">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="ColumnHeaderStyle">
+                <Setter.Value>
+                    <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="Background" Value="Orange"/>
+                        <Setter Property="Foreground" Value="White"/>
+                    </Style>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="OrangeButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="Orange"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Width" Value="250"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+        </Style>
+        <utilities:ByteArrayToImageConverter x:Key="ByteArrayToImageConverter" />
+    </UserControl.Resources>
+
+    <UserControl.DataContext>
+        <viewModels:EventEditManagerViewModel/>
+    </UserControl.DataContext>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="4*" />
+        </Grid.RowDefinitions>
+
+        <DataGrid Style="{StaticResource CustomDataGridStyle}" ItemsSource="{Binding Events}"
+                  SelectedItem="{Binding SelectedEvent, Mode=TwoWay}"
+                  AutoGenerateColumns="False"
+                  HorizontalAlignment="Stretch"
+                  VerticalAlignment="Stretch"
+                  Margin="10"
+                  IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="{DynamicResource item119}" Binding="{Binding EventID}" />
+                <DataGridTextColumn Header="{DynamicResource item104}" Binding="{Binding EventName}" />
+                <DataGridTextColumn Header="{DynamicResource item112}" Binding="{Binding EventDuration}" />
+                <DataGridTextColumn Header="{DynamicResource item113}" Binding="{Binding Category.CategoryName}" />
+                <DataGridTextColumn Header="{DynamicResource item120}" Binding="{Binding Organizer.CompanyName}" />
+                <DataGridTextColumn Header="{DynamicResource item114}" Binding="{Binding Description}" />
+                <DataGridTextColumn Header="{DynamicResource item115}" Binding="{Binding StartDate}" />
+                <DataGridTextColumn Header="{DynamicResource item116}" Binding="{Binding Cost}" />
+                <DataGridTemplateColumn Header="{DynamicResource item117}">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Image, Converter={StaticResource ByteArrayToImageConverter}}" 
+                                   Width="50" Height="50" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="1" Orientation="Vertical" Margin="10">
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="{DynamicResource item119}" Foreground="Orange" VerticalAlignment="Center" Width="100" />
+                <TextBox Text="{Binding EventID, UpdateSourceTrigger=PropertyChanged}" IsReadOnly="True" Width="200" />
+                <TextBlock Text="{Binding EventIDError, UpdateSourceTrigger=PropertyChanged}" Foreground="Red" FontSize="12" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="{DynamicResource item104}" Foreground="Orange" VerticalAlignment="Center" Width="100" />
+                <TextBox Text="{Binding EventName, UpdateSourceTrigger=PropertyChanged}" Width="200" />
+                <TextBlock Text="{Binding EventNameError, UpdateSourceTrigger=PropertyChanged}" Foreground="Red" FontSize="12" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="{DynamicResource item112}" Foreground="Orange" VerticalAlignment="Center" Width="100" />
+                <TextBox Text="{Binding EventDuration, UpdateSourceTrigger=PropertyChanged}" Width="200" />
+                <TextBlock Text="{Binding EventDurationError, UpdateSourceTrigger=PropertyChanged}" Foreground="Red" FontSize="12" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="{DynamicResource item113}" Foreground="Orange" VerticalAlignment="Center" Width="100" />
+                <ComboBox ItemsSource="{Binding Categories}" SelectedItem="{Binding SelectedCategory}" DisplayMemberPath="CategoryName" Width="200"/>
+                <TextBlock Text="{Binding SelectedCategoryError, UpdateSourceTrigger=PropertyChanged}" Foreground="Red" FontSize="12" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="{DynamicResource item114}" Foreground="Orange" VerticalAlignment="Center" Width="100" />
+                <TextBox Text="{Binding Description, UpdateSourceTrigger=PropertyChanged}" Width="200" />
+                <TextBlock Text="{Binding DescriptionError, UpdateSourceTrigger=PropertyChanged}" Foreground="Red" FontSize="12" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="{DynamicResource item115}" Foreground="Orange" VerticalAlignment="Center" Width="100" />
+                <DatePicker x:Name="GRNDate" Margin="0,5,0,0" 
+                    SelectedDate="{Binding selectedGRN.grnDate, Mode=TwoWay, TargetNullValue=''}" 
+                    DisplayDateStart="{Binding MinDate}" 
+                    DisplayDateEnd="{Binding MaxDate}" 
+                    Width="200"/>
+                <TextBlock Text="{Binding StartDateError, UpdateSourceTrigger=PropertyChanged}" Foreground="Red" FontSize="12" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="{DynamicResource item116}" Foreground="Orange" VerticalAlignment="Center" Width="100" />
+                <TextBox Text="{Binding Cost, UpdateSourceTrigger=PropertyChanged}" Width="200" />
+                <TextBlock Text="{Binding CostError, UpdateSourceTrigger=PropertyChanged}" Foreground="Red" FontSize="12" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="{DynamicResource item117}" Foreground="Orange" VerticalAlignment="Center" Width="100" />
+                <StackPanel>
+                    <TextBlock Text="{Binding EventImageError, UpdateSourceTrigger=PropertyChanged}" Foreground="Red" FontSize="12" />
+                    <Button Content="{DynamicResource item118}" Command="{Binding UploadImageCommand}" Style="{StaticResource OrangeButtonStyle}" />
+                </StackPanel>
+                <Image Source="{Binding EventImage}" Width="100" Height="100" Margin="10,0,0,0"/>
+            </StackPanel>
+
+            <Button Content="{DynamicResource item106}" Command="{Binding SaveCommand}" Style="{StaticResource OrangeButtonStyle}" />
+            <Button Content="{DynamicResource item107}" Command="{Binding DeleteCommand}" Style="{StaticResource OrangeButtonStyle}" />
+        </StackPanel>
+    </Grid>
+    </UserControl>
